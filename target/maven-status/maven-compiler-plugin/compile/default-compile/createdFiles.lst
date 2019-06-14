@@ -1,0 +1,7 @@
+sbd/digital/accelerator/HousePlan.class
+sbd/digital/accelerator/HouseBuilder.class
+sbd/digital/accelerator/ApartmentBuilder.class
+sbd/digital/accelerator/House.class
+sbd/digital/accelerator/Architect.class
+sbd/digital/accelerator/CottageBuilder.class
+sbd/digital/accelerator/BuilderDesignPattern.class
